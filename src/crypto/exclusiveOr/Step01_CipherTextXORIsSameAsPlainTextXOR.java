@@ -1,4 +1,4 @@
-package crypto.basic;
+package crypto.exclusiveOr;
 
 import crypto.util.CipherUtil;
 
