@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="generateKey.js" type="NodeJSConfigurationType" path-to-node="$APPLICATION_CONFIG_DIR$/node/versions/22.19.0/node" nameIsGenerated="true" path-to-js-file="generateKey.js" typescript-loader="bundled" working-dir="$PROJECT_DIR$/src/node">
+    <method v="2" />
+  </configuration>
+</component>

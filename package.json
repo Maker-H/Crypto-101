@@ -1,0 +1,20 @@
+{
+  "name": "crypto_101",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maker-H/Crypto-101.git"
+  },
+  "private": true,
+  "dependencies": {
+    "@types/node": "^24.3.0"
+  },
+  "scripts": {
+    "start": "node -r ts-node/register src/node/generateKey.js"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
